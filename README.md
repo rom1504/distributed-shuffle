@@ -3,6 +3,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rom1504/distributed_shuffle/blob/master/notebook/distributed_shuffle_getting_started.ipynb)
 [![Try it on gitpod](https://img.shields.io/badge/try-on%20gitpod-brightgreen.svg)](https://gitpod.io/#https://github.com/rom1504/distributed_shuffle)
 
+**Not ready for usage yet**
+
 A simple implementation of distributed shuffle, intended for learning.
 
 Distributed shuffle is the core of algorithms such as distributed sort, group by, deduplicate, join of distributed data processing. It is employed by many frameworks including for example pyspark and ray.
